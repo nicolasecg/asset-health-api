@@ -1,0 +1,8 @@
+[
+  {"id": "A-001", "description": "Programmable controller", "category": "Controller", "lifecycle": "ACTIVE", "repairable": true, "stock": 4, "failures_last_year": 1},
+  {"id": "A-002", "description": "Variable frequency drive 5 HP", "category": "Drive", "lifecycle": "ACTIVE MATURE", "repairable": true, "stock": 2, "failures_last_year": 3},
+  {"id": "A-003", "description": "Operator HMI panel 10in", "category": "HMI", "lifecycle": "END OF LIFE", "repairable": true, "stock": 1, "failures_last_year": 2},
+  {"id": "A-004", "description": "Digital input module 16 pt", "category": "I/O", "lifecycle": "DISCONTINUED", "repairable": false, "stock": 0, "failures_last_year": 4},
+  {"id": "A-005", "description": "Industrial Ethernet switch", "category": "Network", "lifecycle": "ACTIVE", "repairable": false, "stock": 6, "failures_last_year": 0},
+  {"id": "A-006", "description": "Power supply 24 VDC", "category": "Power", "lifecycle": "ACTIVE", "repairable": false, "stock": 0, "failures_last_year": 5}
+]
