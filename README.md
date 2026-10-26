@@ -1,8 +1,8 @@
 # Asset Health API
 
 A small Python service that tracks industrial assets, their **lifecycle status**
-(ACTIVE, ACTIVE MATURE, END OF LIFE, DISCONTINUED) and their **obsolescence risk**,
-packaged with Docker and deployed to **Kubernetes** locally and on **Azure (AKS)**.
+(ACTIVE, ACTIVE MATURE, END OF LIFE, DISCONTINUED) and their **obsolescence risk**.
+Packaged with Docker and deployed to **Kubernetes** locally and on **Azure (AKS)**.
 
 Built to practice: Python · Docker · Kubernetes · Azure · CI with GitHub Actions · SRE basics (health probes, replicas, resource limits).
 
